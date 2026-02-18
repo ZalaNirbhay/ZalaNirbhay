@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Learnfy(An online learning platform)<br>👯 I’m looking to collaborate on Open-source web apps, React & Flutter projects <br>🌱 I’m currently learning learning React.js, Flutter, Advanced JavaScript, System Design basics<br>💬 Ask me about JavaScript, React,Flutter,PHP, MySQL, Bootstrap, E-commerce systems, Admin dashboards<br>⚡ Fun fact I turn college projects into production-level applications 😄
+/*🔭 I’m currently working on Learnfy(An online learning platform)*/
+<br>👯 I’m looking to collaborate on Open-source web apps, React & Flutter projects <br>🌱 I’m currently learning learning React.js, Flutter, Advanced JavaScript, System Design basics<br>💬 Ask me about JavaScript, React,Flutter,PHP, MySQL, Bootstrap, E-commerce systems, Admin dashboards<br>⚡ Fun fact I turn college projects into production-level applications 😄
 
 
 ## 🌐 Socials:
