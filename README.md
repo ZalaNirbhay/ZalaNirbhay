@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on BeatFlow(An online Music Streaming platform)
-<br>👯 I’m looking to collaborate on Open-source web apps, React & Flutter projects <br>🌱 I’m currently learning learning React.js, Flutter, Advanced JavaScript, System Design basics<br>💬 Ask me about JavaScript, React,Flutter,PHP, MySQL, Bootstrap, E-commerce systems, Admin dashboards<br>⚡ Fun fact I turn college projects into production-level applications 😄
+<br>👯 I’m looking to collaborate on Open-source web apps, React & Flutter projects <br>🌱 I’m currently learning learning Node & Express js , React.js, Flutter, Advanced JavaScript, System Design basics<br>💬 Ask me about MERN Stack ,  JavaScript, React,Flutter,PHP, MySQL, Bootstrap, E-commerce systems,<br>⚡ Fun fact I turn college projects into production-level applications 😄
 
 
 ## 🌐 Socials:
